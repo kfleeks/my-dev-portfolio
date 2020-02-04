@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name": "James Opara",
+    "occupation": "Software Developer",
+    "description": "I enjoy environments where I'm able to learn and contribute. I can be an asset to any team, and I want to use my programming skills to help create software that not only improves business productivity but also improves the experience of its users",
+    "image": "professional-picture.jpeg",
+    "bio": "Forward-thinking, open-minded, creative and detail-oriented Full Stack software engineer. Capable of thriving alone or in a team environment, and always excited to learn, grow and evolve. I've worked with HTML5, CSS3, Javascript, Node.js, Express.js, React.js, Ember.js, AJAX, MongoDB, PostgreSQL, Python, and Django. I am charismatic and very naturally proficient at building and maintaining strong professional relationships. I possess great critical thinking and problem-solving skills, and I am dedicated to completing the tasks at hand. Currently open to new opportunities and open to working remotely. ",
+    "contactmessage": "Contact Me",
+    "email": "jopara94@gmail.com",
+    "phone": "(832) 894-4719",
+    "address": {
+      "city": "Houston",
+      "state": "Texas"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1KKJUOEENuwPRznUU_U856cM8pplfCsoo/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jopara94",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/jopara12",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/jopara94",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "The tech that I use to do what I do.",
+    "education": [
+      {
+        "school": "General Assembly",
+        "degree": "Software Engineering Immersive",
+        "graduated": "November 2019",
+        "description": ""
+      },
+      {
+        "school": "Dekaney High School",
+        "degree": "High School Diploma",
+        "graduated": "June 2011",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Self-Employed",
+        "title": "Freelance Software Developer",
+        "years": "December 2019 - Present",
+        "description": "Building websites and web apps for businesses and individual clients for a reasonable price within a reasonable timeframe."
+      },
+      {
+        "company": "General Assembly",
+        "title": "Software Engineer Fellow",
+        "years": "August 2019 - November 2019",
+        "description": "Three-month, 420-hour full-time and Full-Stack program conducted in a remote setting. Built several proof-of-concept applications and deployed projects within three months. Worked with and built RESTful APIs. Created responsive Front-End UIs. Worked with modern Front-End and Back-End programming languages, tools, and methodologies including HTML 5, CSS 3, Bootstrap 4, ES6 Javascript, AJAX, React.js, Python 3, Django, PostgreSQL, MongoDB, Node.js, Express.js, Git/Github, and Agile/Scrum."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "description": "My first step to learning web development was learning HTML",
+        "image": "html.png"
+      },
+      {
+        "name": "CSS",
+        "description": "I use CSS to add colors and designs to my projects. I use Flexbox a lot too.",
+        "image": "css.png"
+      },
+      {
+        "name": "Javascript",
+        "description": "Personally, Javascript is my favorite programming language. It is the first language I learned how to use, and the language that I am most familiar with.",
+        "image": "js.png"
+      },
+      {
+        "name": "React.js",
+        "description": "React's component-based methodology was a bit confusing to me at first, but I am making it a point to continue to use it and I am improving my skills with React as I go.",
+        "image": "react.png"
+      },
+      {
+        "name": "Node.js",
+        "description": "Node was the first backend language that I learned to use, and it is the backend language I am most comfortable with. I learned to use Express.js shortly after starting with Node.",
+        "image": "node.png"
+      },
+      {
+        "name": "Python",
+        "description": "Python is an interesting, fun, and super powerful programming language. I started using it after Javascript, and I want to master it.",
+        "image": "python.png"
+      },
+      {
+        "name": "Django",
+        "description": "Django is a great back-end language that allows me to create RESTful API's and give applications full CRUD capability with minimal code.",
+        "image": "django.png"
+      },
+      {
+        "name": "C#",
+        "description": "C# is a new language for me. I know it is a powerful language, and I am hoping to use it to broaden my skills as a developer and improve my marketability as both a freelancer and a professional developer.",
+        "image": "csharp.png"
+      },
+      {
+        "name": "ASP.Net",
+        "description": "Along with C#, ASP.NET is new for me. I intend to learn it to become a better and more marketable developer.",
+        "image": "aspnet.png"
+      },
+      {
+        "name": "MongoDB",
+        "description": "One of the two database technologies that I use to store data. I use MongoDB when I'm building backends with Node.js/Express.js.",
+        "image": "mongodb.png"
+      },
+      {
+        "name": "PostgreSQL",
+        "description": "The relational database technology I use when I'm building backends with Python/Django.",
+        "image": "postgres.png"
+      },
+      {
+        "name": "GitHub",
+        "description": "My General Assembly instructors taught me how to use GitHub to store my code and projects and I've been using it ever since.",
+        "image": "github.png"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Pharmacy Flash Cards",
+        "category": "My first class project from General Assembly. I was a pharmacy technician for 7 years, so I created this learning game.",
+        "image": "Pharmacy-Cards.png",
+        "url": "https://jopara94.github.io/"
+      },
+      {
+        "title": "Hack Overflow",
+        "category": "My second project from General Assembly. I built it to pay homage to Stack Overflow since I was using it multiple times a day.",
+        "image": "hack-overflow.png",
+        "url": "http://project-2-hack-overflow.herokuapp.com/"
+      }
+    ]
+  }
+}
