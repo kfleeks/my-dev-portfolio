@@ -13,7 +13,7 @@
       "state": "Texas"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/1KKJUOEENuwPRznUU_U856cM8pplfCsoo/view?usp=sharing",
+    "resumedownload": "https://docs.google.com/document/d/1-TqiIEq38BV9NmEeyZH1RMkFOc8atL0X_bJ581QQODU/edit?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -49,6 +49,12 @@
       }
     ],
     "work": [
+      {
+        "company": "Elon Technologies",
+        "title": "Software Developer",
+        "years": "February 2020 - Present",
+        "description": "Designing and building custom software applications for businesses, government institutions, and healthcare institutions."
+      },
       {
         "company": "Self-Employed",
         "title": "Freelance Software Developer",
