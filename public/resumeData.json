@@ -2,9 +2,9 @@
   "main": {
     "name": "James Opara",
     "occupation": "Software Developer",
-    "description": "I enjoy environments where I'm able to learn and contribute. I can be an asset to any team, and I want to use my programming skills to help create software that not only improves business productivity but also improves the experience of its users",
+    "description": "",
     "image": "professional-picture.jpeg",
-    "bio": "Forward-thinking, open-minded, creative and detail-oriented Full Stack software developer. Capable of thriving alone or in a team environment, and always excited to learn, grow and evolve. I've worked with HTML5, CSS3, Javascript, Node.js, Express.js, React.js, Ember.js, AJAX, MongoDB, PostgreSQL, Python, and Django. I am charismatic and very naturally proficient at building and maintaining strong professional relationships. I possess great critical thinking and problem-solving skills, and I am dedicated to completing the tasks at hand. Currently open to new opportunities and open to working remotely. ",
+    "bio": "Forward-thinking, open-minded, creative and detail-oriented Full Stack software developer. Capable of thriving alone or in a team environment, and always excited to learn, grow and evolve. I've worked with HTML5, CSS3, Javascript, Node.js, Express.js, React.js, Ember.js, AJAX, MongoDB, PostgreSQL, Python, and Django. I am charismatic and very naturally proficient at building and maintaining strong professional relationships. I possess great critical thinking and problem-solving skills, and I am dedicated to completing the tasks at hand. I want to use my programming skills to help create software that not only improves business productivity but also improves the experience of its users. Currently open to new opportunities and open to working remotely. ",
     "contactmessage": "Contact Me",
     "email": "jopara94@gmail.com",
     "phone": "(832) 894-4719",
@@ -144,6 +144,12 @@
         "category": "My second project from General Assembly. I built it to pay homage to Stack Overflow since I was using it multiple times a day.",
         "image": "hack-overflow.png",
         "url": "http://project-2-hack-overflow.herokuapp.com/"
+      },
+      {
+        "title": "Medical Countermeasures",
+        "category": "MCM facilitates communication between federal government agencies and public stakeholders to enhance the Nation's public health emergency preparedness.",
+        "image": "MCM-screenshot.png",
+        "url": "https://www.medicalcountermeasures.gov/"
       }
     ]
   }
