@@ -1,6 +1,6 @@
 # My Personal Website
 
-I built this single-page website for myself using React.js. The domain is jamesopara.dev
+I built this single-page website for myself using React.js. Users can view the site [here.](https://www.jamesopara.dev)
 
 ## Contents
 
